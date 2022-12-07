@@ -55,7 +55,7 @@ Para os testes temos:
 
 ## 📦 Desenvolvimento das ROTAS
 
-* Para as Rotas foram definidas as seguintes:
+Para as Rotas foram definidas as seguintes:
 * Route de adicionar novas peticoes (/api/adiciona/peticoes)
 * Route de assinatura de peticao (/api/assinatura)
 * Route de autenticar Usuário (/api/autentica)
