@@ -56,14 +56,14 @@ Para os testes temos:
 ## 📦 Desenvolvimento das ROTAS
 
 Para as Rotas foram definidas as seguintes:
-    *Route de adicionar novas peticoes (/api/adiciona/peticoes)
-    *Route de assinatura de peticao (/api/assinatura)
-    *Route de autenticar Usuário (/api/autentica)
-    *Route de delete de peticoes (/api/delete/peticoes)
-    *Route de ID de peticoes (/api/id/peticoes)
-    *Route da API (/api/peticoes)
-    *Route de remover peticoes (/api/remove)
-    *Route de update de peticoes (/api/update/peticoes)
+    * Route de adicionar novas peticoes (/api/adiciona/peticoes)
+    * Route de assinatura de peticao (/api/assinatura)
+    * Route de autenticar Usuário (/api/autentica)
+    * Route de delete de peticoes (/api/delete/peticoes)
+    * Route de ID de peticoes (/api/id/peticoes)
+    * Route da API (/api/peticoes)
+    * Route de remover peticoes (/api/remove)
+    * Route de update de peticoes (/api/update/peticoes)
 
 ## 🎁 Expressões de gratidão
 
